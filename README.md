@@ -28,4 +28,4 @@ My Android rice configuration featuring a custom Kvaesitso launcher setup with C
 
 ## License
 
-[MIT](LICENSE)
+[GNU GPL 3.0](LICENSE)
